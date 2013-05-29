@@ -26,4 +26,8 @@ After you do that, this file allows you to:
  		git flow feature finish   # it executes "arc amend" at the beginning of the normal process
  		
  		
- I hope this is clear enough. If not, ask and maybe i will listen :)
+I hope this is clear enough. If not, ask and maybe i will listen :)
+
+#### Works on
+It works on mac and other linux based systems.
+Don't know about widows though.
