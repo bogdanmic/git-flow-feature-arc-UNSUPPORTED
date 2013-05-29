@@ -25,7 +25,15 @@ After you do that, this file allows you to:
  
  		git flow feature finish   # it executes "arc amend" at the beginning of the normal process
  		
+#### How does this file modify my flow?
+The new flow for a feature looks something like this:
+
+	git flow feature
+	git flow feature start <name> [<base>]
+	git flow feature review
+	git flow feature finish <name>
  		
+
 I hope this is clear enough. If not, ask and maybe i will listen :)
 
 #### Works on
