@@ -20,7 +20,7 @@ After you do that, this file allows you to:
  
  - create a code review request to the phabricator server
  			
- 		git flow feature review   # it executes "arc diff"
+ 		git flow feature review   # it executes "arc diff develop"
  - close the review requests after they are accepted
  
  		git flow feature finish   # it executes "arc amend" at the beginning of the normal process
