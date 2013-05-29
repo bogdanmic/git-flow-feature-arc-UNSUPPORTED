@@ -12,7 +12,7 @@ To use this file, rewrite the original file from <https://github.com/nvie/gitflo
 #### What is so special about this file?
 
 Well first for it to work you need to have installed this <https://github.com/facebook/arcanist> installed.
-This is part of a larger process that uses [phabricator](http://phabricator.org/) to do code review.
+This is a component used by [phabricator](http://phabricator.org/) to do code review.
 
 For more details on installing **Phabricator** please check their documentation <http://www.phabricator.com/docs/phabricator/article/Installation_Guide.html>
 
