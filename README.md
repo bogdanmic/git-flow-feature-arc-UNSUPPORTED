@@ -1,6 +1,8 @@
 git-flow-feature-arc
 ====================
 
+**ATTENTION:** Following some comments from https://github.com/lonetwin I decided to add my modifications on a fork of the original source code <https://github.com/nvie/gitflow>. This way the installation process will be more straight forward for future users. You can find the forked version here <https://github.com/bogdanmic/gitflow>
+
 This is the git-flow-feature file from <https://github.com/nvie/gitflow> with a few modifications to use "arc diff" and "arc amend" to open and close review requests.
 All the credits for building git-flow belong to its original owner.
 
